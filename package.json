@@ -1,0 +1,19 @@
+{
+  "name": "test-s3",
+  "version": "1.0.0",
+  "description": "s3 test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metaphor10/test-s3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metaphor10/test-s3/issues"
+  },
+  "homepage": "https://github.com/metaphor10/test-s3#readme"
+}
